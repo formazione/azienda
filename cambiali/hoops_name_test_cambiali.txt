@@ -1,0 +1,20 @@
+[hoops name="input2"]
+    <script>
+input("Cosa si paga sulle cambiali? Il ______ ", "bollo");
+input("Le _________ sono titoli di credito che contengono la promessa o l’ordine di pagare una somma di denaro ad un soggetto, a una determinata scadenza e in un certo luogo. ", "cambiali");
+input("Cosa significa titolo ___________? Che non è indicata la causa dell’emissione del titolo. ", "astratto");
+input("Cosa significa titolo all'_______? Che si può trasferire per girata. ", "ordine");
+input("Cosa significa titolo _________? Che deve rispettare i requisiti di legge. ", "formale");
+input("Cosa significa titolo ________? Che in caso di mancato pagamento il titolo vale come sentenza per recuperare l’importo. ", "esecutivo");
+input("Cosa significa titolo _________? Che vale ciò che è scritto sul titolo: il diritto è, quindi, incorporato nel titolo ed è pari a quanto scritto su di esso. ", "letterale");
+input("Cos’è il _____________? È una cambiale con due soggetti: l’emmittente e il beneficiario. ", "pagherò");
+input("Che scadenza può avere il pagherò? A giorno fisso o a certo tempo ______ . Ad esempio, sulla cambiale può esserci scritto “Al 30 dicembre pagherò…” oppure “A 30 giorni data pagherò…”. Si intende, in quest’ultimo caso, a 30 giorni dalla data di emissione. ", "data");
+input("Cos’è la _______? È una cambiale con tre soggetti. Il traente che ordina al trattario di pagare il beneficiario. Il traente ha un credito con il trattario e un debito con il beneficiario per lo stesso importo. Con la tratta, quindi, estingue due rapporti (di credito e debito) in una sola soluzione. ", "tratta");
+input("Cos’è il bollo delle cambiali? È un imposta del ____ per mille sul valore della cambiale che si paga apponendo la marca cambiali sul retro del modulo. L’importo si arrotonda ai 10 centesimi inferiori per centesimi inferiori o uguali a 0,05 euro e superiori se superiore a 0,05 euro. ", "12");
+input("Cos’è la ________? È l’atto con il quale la cambiale viene trasferita ad un altro beneficiario. Il primo beneficiario può apporre solo la propria firma sul retro (_______ in bianco) o scrivere, ad esempio, per me pagate a… con il nome del nuovo beneficiario (________ in pieno), per trasferire la cambiale. ", "girata");
+input("Chi è il _____________? È il nuovo beneficiario della cambiale, dopo che è stata effettata la girata. Il giratario può a sua volta girare la cambiale ad un altro beneficiario. ", "giratario");
+input("Chi sono gli obbligati cambiari? Tutti coloro che possono venire chiamati a pagare la cambiale. Ogni girante risponde nei confronti dei ____________ successivi. ", "giratari");
+input("Cos’è la girata __________? È la girata che si fa alla banca per l’incasso della cambiale e si fa aggiungendo “per l’incasso”. ", "impropria");
+input("Cosa accade se il debitore non paga la cambiale? I creditore può iniziare un’azione legale diretta nei confronti dell’emittente o del trattario (e loro avallanti) oppure un’azione legale di _______ nei confronti dei giranti e del traente (nella tratta). ", "regresso");
+input("Cosa bisogna fare per esercitare l’azione di regresso? Entro ____ giorni dalla scadenza occorre redarre l’atto di protesto tramite un pubblico ufficiale (ufficiale giudiziario, notaio o segretario comunale) ", "2");
+</script>

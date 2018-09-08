@@ -1,0 +1,55 @@
+AcPbfP7Cxg0
+- capire cpm e rpm
+04 Capire CPM e RMP
+05 Il  mondo della pubblicità online è pieno di acronimi
+10 CPS CPM
+12 RPM e la lista va avanti
+15 se questi acronimi rappresentano importanti strumenti di misura
+18 può essere difficile compredere da dove iniziare
+21 quando si tratta di aumentare questi valori e i guadagni
+26 molti degli acronimi più diffusi
+29 possono avere significati diversi in diversi contesti
+32 il che confonde ancora di più
+35 facciamo una panoramica di quelli più importanti
+36 a cominciare da CPM
+37 significa COSTO PER MILLE impressioni
+38 per i pubblicitari è il prezzo che pagano
+47 per mille impressioni del loro spot
+52 un CPM di 2 dollari
+58 significa che paga 2 dollari ogni mille utenti che vedono lo spot
+02 in Adsense non ci sono CPM
+06 noi usiamo l'acronimo RPM
+10 significa guadagni per 1000 impressioni
+12 dato che gli spot non sono mostrati
+14 in pacchetti di 100 impressioni
+16 tutte le impressioni del tuo sito
+18 indifferentemente dal tipo
+20 sono combbinati in media nei tuoi report
+23 per mostrarti gli effettivi guadagni per 100 impressioni
+28 RPM è usato solo da AdSense (google)
+30 riporta i guadagni basati sulle impressioni
+35 CPM è usato dall'industria della pubblicità per il prezzo basato sulle impressioni
+40 ora passiamo a CPC
+42 costo per click
+48 è il prezzo per ogni click sul banner
+54 nel report viene mostrato quanto guadagni per i click
+00 ci sono 2 nuovi acronimi che saranno famosi
+02 il primo è CPE
+04 costo per engagement
+10 si paga solo quando l'utente interagisce con il banner in un certo modo
+12 oltre a cliccare
+15 questi spot contengono video e grandi banner
+18 l'altra novità nella misura dei guadagni
+19 è active view CPM
+24 si paga in base alle migliaia di impressioni
+27 solo se sono valutate come visibili
+31 quando almeno il 50% del banner è visibile sullo schermo
+32 per almeno un secondo
+38 man mano che questi modi diventano comuni vi daremo più informazioni
+40 compreso il vostro report degli spot
+45 in questa unità ci concentreremo sui cambiamenti
+48 per aumentare i guadagni dai pubblicitari
+51 copriremo le configurazioni per i tuoi banner
+52 e del tuo AdSense account
+54 che può avere un impatto diretto
+56 sul tuo CPM e CPC

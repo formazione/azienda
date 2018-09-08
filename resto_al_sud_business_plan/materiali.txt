@@ -1,0 +1,25 @@
+sito invitalia
+http://www.invitalia.it/site/new/home/cosa-facciamo/creiamo-nuove-aziende/resto-al-sud.html?p
+
+video
+https://youtu.be/ji0G_0m5GRg
+<iframe width="748" height="419" src="https://www.youtube.com/embed/ji0G_0m5GRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+schema lezione
+---------------
+ resto al sud
+
+ 4 o più persone
+ finanziamenti
+    no ti
+    no altre imprese
+    no altri incentivi
+    no agr comm lib prof
+
+    immobili
+    impianti
+    utenze
+
+    no prog. personale
+
+    contrinuto a fondo perduto

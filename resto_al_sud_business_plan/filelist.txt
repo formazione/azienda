@@ -1,0 +1,6 @@
+canvas.PNG
+filelist.txt
+getfilelist.py
+img1.PNG
+materiali.txt
+moderno.PNG
