@@ -1,10 +1,7 @@
 Big Data Marketing
 
-Cos'è il Big Data Marketing? Partiamo dal definire cosa sono il data mining, data science e big data.
-
-Data mining (da https://www.growthramp.io/analytics/big-data-marketing/)
-Piatettsky-Shapiro, Fayyad e Symth pubblicarono un articolo in cui definirono il data mining come il processo per scoprire conoscenze utili dai dati (1999).
-Cleveland nel 2001 portò il data mining ad un nuovo livello associandolo alla computer science e la data science è l'uso del data mining con la computer science.
+Cos'è il Big Data Marketing? Partiamo dal definire cosa sono il data mining, data science e big data (da https://www.growthramp.io/analytics/big-data-marketing/).
+I primi a parlare di data mining furono Piatettsky-Shapiro, Fayyad e Symth che, in un articolo, lo definirono un processo per scoprire conoscenze utili dai dati (1999).
+Cleveland nel 2001 portò il data mining ad un nuovo livello. Lo associò alla computer science e la 'data science' è nasce dall'uso del data mining coniugato con la computer science.
 Quando è comparso il Web 2.0 milioni di persone poterono interagire l'uno con l'altro attraverso i social network come Facebook, LinkedIn e reddit. Il risultato di questa esplosione fu la creazione di immense quantità di dati. Questa mole di dati scaturita dall'interazione tra computer e utenti ha preso il nome di big data.
-
 Il big data marketing è il modo di utilizzare questa enorme quantità di dati per migliorare il proprio marketing.
